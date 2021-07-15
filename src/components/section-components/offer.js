@@ -5,10 +5,10 @@ class Offer extends Component {
 
     render() {
 
-        let publicUrl = process.env.PUBLIC_URL+'/'
-        let imgattr = 'image'
-        let data = sectiondata.offer
-        let anchor = '#'
+        let publicUrl = process.env.PUBLIC_URL+'/';
+        // let imgattr = 'image';
+        let data = sectiondata.offer;
+        // let anchor = '#';
 
     return <div>
             <div className="sbst-offer-area pd-top-100">

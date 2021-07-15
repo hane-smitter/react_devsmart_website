@@ -6,9 +6,9 @@ class Job_Listing extends Component {
 
     render() {
 
-        let publicUrl = process.env.PUBLIC_URL+'/'
-        let imgattr = 'image'
-        let data = sectiondata.joblisting
+        let publicUrl = process.env.PUBLIC_URL+'/';
+        // let imgattr = 'image';
+        // let data = sectiondata.joblisting
         let customclass = this.props.customclass ? this.props.customclass : ''
         
     return <div>

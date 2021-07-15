@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import sectiondata from '../../data/sections.json';
-import parse from 'html-react-parser';
+// import parse from 'html-react-parser';
 
 class Slider_V3 extends Component {
 

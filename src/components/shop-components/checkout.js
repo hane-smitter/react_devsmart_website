@@ -5,10 +5,10 @@ import sectiondata from '../../data/sections.json';
 class ShopDetails extends Component {
 
     render() {
-        let publicUrl = process.env.PUBLIC_URL+'/'
-        let imgattr = 'image'
-        let data = sectiondata.about
-        let customclass = this.props.customclass ? this.props.customclass : ''
+        let publicUrl = process.env.PUBLIC_URL+'/';
+        // let imgattr = 'image';
+        // let data = sectiondata.about;
+        // let customclass = this.props.customclass ? this.props.customclass : '';
 
     return <div>
             <div className="checkout-page-area pd-top-120">
@@ -23,8 +23,8 @@ class ShopDetails extends Component {
                           </div>  
                           <div className="col-xl-7 col-lg-12 col-md-6 text-xl-right text-lg-left text-md-right">
                             <span>Already have an account?</span>
-                            <a id="signIn-btn" href="#">Sign in /</a>
-                            <a id="signUp-btn" href="#">Sign Up</a>
+                            <a id="signIn-btn" href="javascript:void(0);">Sign in /</a>
+                            <a id="signUp-btn" href="javascript:void(0);">Sign Up</a>
                           </div>  
                         </div>
                       </div>
@@ -90,19 +90,19 @@ class ShopDetails extends Component {
                               <div className="payment-method">
                                 <ul>
                                   <li>
-                                    <a href="#"><img src={publicUrl+"assets/img/checkout/1.png"} alt="img" /></a>
-                                    <a href="#"><img src={publicUrl+"assets/img/checkout/2.png"} alt="img" /></a>
-                                    <a href="#"><img src={publicUrl+"assets/img/checkout/3.png"} alt="img" /></a>
-                                    <a href="#"><img src={publicUrl+"assets/img/checkout/4.png"} alt="img" /></a>
-                                    <a href="#"><img src={publicUrl+"assets/img/checkout/5.png"} alt="img" /></a>
+                                    <a href="javascript:void(0);"><img src={publicUrl+"assets/img/checkout/1.png"} alt="img" /></a>
+                                    <a href="javascript:void(0);"><img src={publicUrl+"assets/img/checkout/2.png"} alt="img" /></a>
+                                    <a href="javascript:void(0);"><img src={publicUrl+"assets/img/checkout/3.png"} alt="img" /></a>
+                                    <a href="javascript:void(0);"><img src={publicUrl+"assets/img/checkout/4.png"} alt="img" /></a>
+                                    <a href="javascript:void(0);"><img src={publicUrl+"assets/img/checkout/5.png"} alt="img" /></a>
                                   </li>
-                                  <li><a href="#">Cash On Delivery</a></li>
-                                  <li><a href="#">Bank Account Payment</a></li>
+                                  <li><a href="javascript:void(0);">Cash On Delivery</a></li>
+                                  <li><a href="javascript:void(0);">Bank Account Payment</a></li>
                                 </ul>
                               </div>
                             </div>
                             <div className="col-12 text-right">
-                              <a className="btn btn-green" href="#">Place Order</a>
+                              <a className="btn btn-green" href="javascript:void(0);">Place Order</a>
                             </div> 
                           </div>
                         </form>

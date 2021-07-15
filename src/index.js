@@ -36,10 +36,10 @@ class Root extends Component {
                             <Route exact path="/" component={HomePage} />
                             <Route path="/about" component={About} />
                             <Route path="/services" component={Services} />
+                            <Route path="/contact" component={Contact} />
                             <Route path="/blog" render={ () => { return <Blog data={blogdata} /> }} />
                             <Route path="/blog-grid" render={ () => { return <BlogGrid data={blogdata} /> }} />
                             <Route path="/blog-details" render={ () => { return <BlogDetails data={Singleblogdata} /> } } />
-                            <Route path="/contact" component={Contact} />
                             <Route path="/job-listing" component={JobListing} />
                             <Route path="/job-details" component={JobDetails} />
                             <Route path="/job-apply" component={JobApply} />

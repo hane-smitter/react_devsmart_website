@@ -4,11 +4,11 @@ import sectiondata from '../../data/sections.json';
 class Help_v2 extends Component {
 
     render() {
-        let publicUrl = process.env.PUBLIC_URL+'/'
-        let anchor = '#'
-        let imgattr = 'image'
-        let data = sectiondata.helpv2
-        let customclass = this.props.customclass ? this.props.customclass : ''
+        let publicUrl = process.env.PUBLIC_URL+'/';
+        // let anchor = '#';
+        let imgattr = 'image';
+        let data = sectiondata.helpv2;
+        // let customclass = this.props.customclass ? this.props.customclass : '';
    
         return <div>
                   <div className="sbtl-better-service pd-top-120">

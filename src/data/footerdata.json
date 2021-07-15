@@ -1,6 +1,6 @@
 {
   "footerlogo": "assets/img/logo.png",
-  "footertext": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+  "footertext": "Devsmart is a group of youth who have come together to accumulate resources in order to take advantage of investment opportunities to be able to empower members as individuals, as a group and the community around through undertaking creative, innovative and socially viable investments.",
   "footerbg": "assets/img/bg/footer.png",
   "socialicon": [
       {
@@ -24,15 +24,15 @@
         "url": "https://www.instagram.com/codingeeknet/"
       }
     ],
-  "copyrighttext": " © Riyaqas 2020 All rights reserved, Powered by <a href='https://codingeek.net/' target='_blank'><i class='fa fa-heart'></i><span>Codingeek.</span></a>",
+  "copyrighttext": " © Devsmart Investment Group Limited 2021 All rights reserved",
   "contactwidget": {
     "title": "Contact",
-    "address": "Manama Tower, Badda Link Road, Badda California, USA",
-    "contact": "+088 012121240",
-    "email": "riyaqas@gmail.com"
+    "address": "p.o box 6090-00200, Nairobi, Kenya",
+    "contact": "+254 793274888",
+    "email": "info@devsmart.co.ke"
   },
   "quicklink": {
-    "title": "Quick Link",
+    "title": "Navigate",
     "links": [
       {
         "title": "Home",
@@ -45,10 +45,6 @@
       {
         "title": "Services",
         "url": "services"
-      },
-      {
-        "title": "Blog",
-        "url": "blog"
       },
       {
         "title": "Contact",
@@ -88,13 +84,13 @@
         "title": "New Feature Added",
         "image_url": "assets/img/blog/widget1.png",
         "url": "/blog-details",
-        "date": "21 August 2019"
+        "date": "21 may 2021"
       },
       {
         "title": "Business Development",
         "image_url": "assets/img/blog/widget2.png",
         "url": "/blog-details",
-        "date": "21 August 2019"
+        "date": "21 August 2020"
       }
 
     ]

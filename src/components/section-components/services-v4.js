@@ -4,11 +4,11 @@ import sectiondata from '../../data/sections.json';
 class Services_V3 extends Component {
 
     render() {
-        let publicUrl = process.env.PUBLIC_URL+'/'
-        let anchor = '#'
-        let imgattr = 'image'
-        let data = sectiondata.servicesv4
-        let customclass = this.props.customclass ? this.props.customclass : ''
+        let publicUrl = process.env.PUBLIC_URL+'/';
+        // let anchor = '#';
+        let imgattr = 'image';
+        let data = sectiondata.servicesv4;
+        // let customclass = this.props.customclass ? this.props.customclass : '';
    
         return <div>
                   <div className="sbtc-service-area pd-top-120">

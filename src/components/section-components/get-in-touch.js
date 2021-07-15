@@ -5,10 +5,10 @@ import sectiondata from '../../data/sections.json';
 class GetInTouch extends Component {
 
     render() {
-        let publicUrl = process.env.PUBLIC_URL+'/'
-        let imgattr = 'image'
+        let publicUrl = process.env.PUBLIC_URL+'/';
+        // let imgattr = 'image';
         let data = sectiondata.getintouch
-        let customclass = this.props.customclass ? this.props.customclass : ''
+        // let customclass = this.props.customclass ? this.props.customclass : ''
 
     return <div>
         <div className="more-question-area pd-top-112">

@@ -5,10 +5,10 @@ import sectiondata from '../../data/sections.json';
 class About extends Component {
 
     render() {
-        let publicUrl = process.env.PUBLIC_URL+'/'
-        let imgattr = 'image'
-        let data = sectiondata.about
-        let customclass = this.props.customclass ? this.props.customclass : ''
+        let publicUrl = process.env.PUBLIC_URL+'/';
+        let imgattr = 'image';
+        let data = sectiondata.about;
+        // let customclass = this.props.customclass ? this.props.customclass : '';
 
     return <div>
             <div className="about-area sbst-provide-security pd-top-100 pb-0" style={{backgroundImage: 'url(assets/img/bg/11.png)'}}>

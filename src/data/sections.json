@@ -40,8 +40,8 @@
     "items": [
       {
         "title1": "Better",
-        "title2": "promotes sales & profits",
-        "title_color": "software",
+        "title2": "Investments",
+        "title_color": "In a better way",
         "description": "There are many variations of passages of Lorem Ipsum available, </br> but the majority have suffered alteration.",
         "button1_image": "assets/img/banner/4.png",
         "button1_url": "#",
@@ -52,9 +52,9 @@
         "video_text": "Watch the Video"
       },
       {
-        "title1": "Crafting online",
-        "title2": "for you",
-        "title_color": "software",
+        "title1": "Invetment Growth",
+        "title2": "Reach",
+        "title_color": "new heights",
         "description": "There are many variations of passages of Lorem Ipsum available, </br> but the majority have suffered alteration.",
         "button1_image": "assets/img/banner/4.png",
         "button1_url": "#",
@@ -66,8 +66,8 @@
       },
       {
         "title1": "Most advantage",
-        "title2": "",
-        "title_color": "Technology",
+        "title2": "Banking beyond ",
+        "title_color": "The ordinary",
         "description": "There are many variations of passages of Lorem Ipsum available, </br> but the majority have suffered alteration.",
         "button1_image": "assets/img/banner/4.png",
         "button1_url": "#",
@@ -82,16 +82,16 @@
   "slider_v3": {
     "items": [
       {
-        "title1": "Smart Technology",
-        "title2": "Most advantage ",
-        "title_color": "Technology",
+        "title1": "Smart Investment",
+        "title2": "All you need ",
+        "title_color": "Is our support",
         "description": "There are many variations of passages of Lorem Ipsum available, but the ",
         "description2": "majority have suffered alteration.",
         "image_url": "assets/img/banner/7.png",
         "btntxt": "Read More"
       },
       {
-        "title1": "Smart Technology",
+        "title1": "Smart Investment",
         "title2": "Your partner in ",
         "title_color": "programme excellence",
         "description": "There are many variations of passages of Lorem Ipsum available, but the ",
@@ -100,9 +100,9 @@
         "btntxt": "Read More"
       },
       {
-        "title1": "Smart Technology",
-        "title2": "Better App for your promotes ",
-        "title_color": "sales",
+        "title1": "Smart Investment",
+        "title2": "Invest Today, ",
+        "title_color": "Tomorrow’s revenue",
         "description": "There are many variations of passages of Lorem Ipsum available, but the ",
         "description2": "majority have suffered alteration.",
         "image_url": "assets/img/banner/7.png",
@@ -1743,10 +1743,10 @@
 },
 "contactinfo": {
   "title":"Contact info:",
-  "description": "Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tosh",
-  "address": "198 West 21th Street, Suite 721 <br/> New York NY 10010",
-  "mobile": "+088 012121240",
-  "mail": "riyaqas@gmail.com"
+  "description": "We are located in Ongata Rongai, Opposite KCB bank",
+  "address": "p.o box 6090-00200,<br />Nairobi, Kenya",
+  "mobile": "+254 793274888",
+  "mail": "info@devsmart.co.ke"
 },
 "contactform": {
   "title": "Send you",

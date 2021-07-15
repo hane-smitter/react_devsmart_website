@@ -152,13 +152,13 @@ class ShopDetails extends Component {
                         </div>
                         <div className="category">
                           <span>Category: </span>
-                          <a href="#">Watch</a>
+                          <a href="javascript:void(0);">Watch</a>
                         </div>
                         <div className="tags">
                           <span>Tag: </span>
-                          <a href="#">Watch,</a>
-                          <a href="#">Smart Watch,</a>
-                          <a href="#">Time</a>
+                          <a href="javascript:void(0);">Watch,</a>
+                          <a href="javascript:void(0);">Smart Watch,</a>
+                          <a href="javascript:void(0);">Time</a>
                         </div>
                       </div>
                     </div>
@@ -192,7 +192,7 @@ class ShopDetails extends Component {
                                     <div className="media">
                                       <img className="media-left" src={publicUrl+"assets/img/blog/comments/1.png"} alt="img" />
                                       <div className="media-body">
-                                        <span>Jabel Ali</span>
+                                        <span>Evanson Kariuki</span>
                                         <p>CEO</p>
                                       </div>
                                     </div>
@@ -233,7 +233,7 @@ class ShopDetails extends Component {
                                   </div>
                                 </div>
                                 <div className="col-12 text-right">
-                                  <a className="btn btn-green" href="#">Submit</a>
+                                  <a className="btn btn-green" href="javascript:void(0);">Submit</a>
                                 </div> 
                               </div>
                             </form>
@@ -254,7 +254,7 @@ class ShopDetails extends Component {
                         <div key={ i } className="col-lg-3 col-sm-6">
                         <div className="single-shop">
                           <div className="thumb">
-                             <a className={"product-badge btn-blue "+item.sticker  } href="#">New</a>
+                             <a className={"product-badge btn-blue "+item.sticker  } href="javascript:void(0);">New</a>
                             <img src={ publicUrl+item.image } alt={ imgattr } />
                             <div className="cart-btn">
                               <div className="cart-btn-wrap">

@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 class Contact_Form extends Component {
 
     render() {
-        let anchor = '#'
-        let imgalt = 'image'
-        let publicUrl = process.env.PUBLIC_URL+'/'
+        let anchor = '#';
+        let imgalt = 'image';
+        let publicUrl = process.env.PUBLIC_URL+'/';
    
     return <div>
             <div className="contact-form-area pd-top-112">
@@ -13,7 +13,7 @@ class Contact_Form extends Component {
                     <div className="row justify-content-center">
                         <div className="col-xl-6 col-lg-8">
                             <div className="section-title text-center w-100">
-                                <h2 className="title">Send you <span>inquary</span></h2>
+                                <h2 className="title">Send you <span>inquiry</span></h2>
                                 <p>Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy.</p>
                             </div>
                         </div>

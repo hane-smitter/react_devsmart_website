@@ -6,9 +6,9 @@ class WordProcessing extends Component {
 
     render() {
         let publicUrl = process.env.PUBLIC_URL+'/'
-        let imgattr = 'image'
-        let data = sectiondata.whatwedo
-        let customclass = this.props.customclass ? this.props.customclass : ''
+        // let imgattr = 'image';
+        // let data = sectiondata.whatwedo;
+        let customclass = this.props.customclass ? this.props.customclass : '';
 
     return <div>
             <div className={"work-processing-area "+customclass}>

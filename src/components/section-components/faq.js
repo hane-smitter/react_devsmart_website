@@ -6,9 +6,9 @@ class Faq extends Component {
 
     render() {
 
-        let imgattr = 'image'
-        let data = sectiondata.faq
-        let customclass = this.props.customclass ? this.props.customclass : ''
+        // let imgattr = 'image';
+        let data = sectiondata.faq;
+        let customclass = this.props.customclass ? this.props.customclass : '';
 
     return <div>
             <div className={ "faq-area "+customclass }>

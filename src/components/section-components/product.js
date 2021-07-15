@@ -5,11 +5,11 @@ import { Link } from 'react-router-dom';
 class Product extends Component {
 
     render() {
-        let publicUrl = process.env.PUBLIC_URL+'/'
-        let anchor = '#'
-        let imgattr = 'image'
-        let customclass = this.props.customclass ? this.props.customclass : ''
-        let data = sectiondata.products
+        let publicUrl = process.env.PUBLIC_URL+'/';
+        // let anchor = '#';
+        let imgattr = 'image';
+        // let customclass = this.props.customclass ? this.props.customclass : '';
+        let data = sectiondata.products;
    
         return <div>
                 <div className="shop-area bg-gray pd-top-112 mg-top-120 pd-bottom-65">

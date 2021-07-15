@@ -5,7 +5,7 @@ import footerdata from '../../data/footerdata.json';
 class Footer_V2 extends Component {
 
     componentDidMount() {
-        let publicUrl = process.env.PUBLIC_URL+'/'
+        let publicUrl = process.env.PUBLIC_URL+'/';
 
         const minscript = document.createElement("script");
         minscript.async = true;
@@ -24,7 +24,7 @@ class Footer_V2 extends Component {
                 <footer className="footer-area footer-area-2">
                     <div className="container">
                         <div className="footer-widget-area mg-top-120">
-                            <div className="row">
+                            <div className="row justify-content-between">
                                 <div className="col-lg-4">
                                     <div className="footer-widget widget">
                                         <div className="about_us_widget">
@@ -39,7 +39,7 @@ class Footer_V2 extends Component {
                                                     </li>
                                                 )}
                                             </ul>
-                                    </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-3">
@@ -62,7 +62,7 @@ class Footer_V2 extends Component {
                                         </ul>
                                     </div>
                                 </div>
-                                <div className="col-lg-3">
+                                {/* <div className="col-lg-3">
                                     <div className="footer-widget widget">
                                         <h4 className="widget-title">{footerdata.latestnews.title}</h4>
                                         <div className="about_recent_post">
@@ -77,7 +77,7 @@ class Footer_V2 extends Component {
                                             )}
                                     </div>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>
