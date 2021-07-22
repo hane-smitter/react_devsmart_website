@@ -7,7 +7,7 @@ import Helpv2 from './section-components/help-v2';
 import Marketing from './section-components/marketing';
 import MarketingV2 from './section-components/marketing-v2';
 // import Testimonialv4 from './section-components/testimonial-v4';
-import Product from './section-components/product';
+// import Product from './section-components/product';
 // import Testimonial from './section-components/testimonial-v2';
 // import Subscribe from './section-components/subscribe';
 import FooterV2 from './global-components/footer-v2';
@@ -21,7 +21,7 @@ const HomePage = () => {
         <Helpv2 />
         <Marketing customclass="pd-top-120"/>
         <MarketingV2 />
-        <Product />
+        {/* <Product /> */}
         {/* <Testimonial />
         <Subscribe /> */}
         <FooterV2 />

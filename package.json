@@ -18,7 +18,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "scss": "node-sass --watch public/assets/sass -o public/assets/css",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -39,8 +38,10 @@
     ]
   },
   "devDependencies": {
+    "cssnano": "^5.0.6",
+    "gulp-postcss": "^9.0.0",
     "gulp-sass": "^5.0.0",
-    "node-sass": "^6.0.1",
+    "postcss": "^8.3.5",
     "sass": "^1.35.2"
   }
 }

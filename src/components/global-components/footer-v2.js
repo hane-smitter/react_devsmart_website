@@ -47,7 +47,7 @@ class Footer_V2 extends Component {
                                         <h4 className="widget-title">{footerdata.contactwidget.title}</h4>
                                         <div className="contact_info_list">
                                             <p className="contact-content">{footerdata.contactwidget.address}</p>
-                                            <p><span>Contact:</span> {footerdata.contactwidget.contact}</p>
+                                            <p><span>Contact:</span><a href={`tel:${footerdata.contactwidget.contact}`}>{footerdata.contactwidget.contact}</a></p>
                                             <p><span>E-mail:</span> {footerdata.contactwidget.email}</p>
                                         </div>
                                     </div>

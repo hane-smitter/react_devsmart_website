@@ -249,7 +249,7 @@
                     a{
                         line-height: 80px;
                         display: inline-block;
-                        color: #01358D;
+                        color: $nav-links;
                         @include transition($transition);
                         &:hover{
                             color: var(--main-color-one);
@@ -288,7 +288,19 @@
 }
 
 @media only screen and (min-width: 992px){
+
     .navbar-area-2 {
+        &.navbar-area-fixed{
+            .nav-container {
+                .navbar-collapse {
+                    .navbar-nav {
+                        li > a {
+                            color: #F5C61F;
+                        }
+                    }
+                }
+            }
+        }
         .nav-container {
             .navbar-collapse {
                 .navbar-nav {

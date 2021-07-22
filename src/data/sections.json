@@ -267,35 +267,70 @@
     ]
   },
   "team": {
-    "sectiontitle": "Riyaqas Creative",
+    "sectiontitle": "Devsmart Investment Group",
     "sectiontitle_color": "Team",
-    "short_description":"Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork.",
+    "short_description":"Devsmart Investment Group brings together youth to accumulate resources to enable increased investment in income generating activities resulting in an improvement of the livelihood of the society.",
     "items": [
       {
-        "name": "Abedin Abed",
+        "name": "Isaac Munene",
         "url":"#",
-        "designation": "Creative Director",
+        "designation": "Chairman",
         "content": "Riyaqas One of the best Software Development company.",
         "image_url": "assets/img/startup/team/1.jpg"
       },
       {
-        "name": "Jabedin jabed",
+        "name": "Ernest Chege",
         "url":"#",
-        "designation": "Projector Manager",
+        "designation": "Secretary",
         "content": "Riyaqas One of the best Software Development company.",
         "image_url": "assets/img/startup/team/2.jpg"
       },
       {
-        "name": "Moin Khan",
+        "name": "Jefferson Maingi",
         "url":"#",
-        "designation": "Art Director",
+        "designation": "Team",
         "content": "Riyaqas One of the best Software Development company.",
         "image_url": "assets/img/startup/team/3.jpg"
       },
       {
-        "name": "Rashed Khan",
+        "name": "Japheth Korir",
         "url":"#",
-        "designation": "Web Developer",
+        "designation": "Treasurer",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/5.png"
+      },
+      {
+        "name": "Nick Karubi",
+        "url":"#",
+        "designation": "Team",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/5.png"
+      },
+      {
+        "name": "William Muriithi",
+        "url":"#",
+        "designation": "Team",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/5.png"
+      },
+      {
+        "name": "Evanson Kariuki",
+        "url":"#",
+        "designation": "Team",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/5.png"
+      },
+      {
+        "name": "Raphael Wanjiku",
+        "url":"#",
+        "designation": "Team",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/5.png"
+      },
+      {
+        "name": "Kenneth Wachira",
+        "url":"#",
+        "designation": "Team",
         "content": "Riyaqas One of the best Software Development company.",
         "image_url": "assets/img/startup/team/5.png"
       }
