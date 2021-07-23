@@ -21,8 +21,8 @@ const HomePage = () => {
         <Helpv2 />
         <Marketing customclass="pd-top-120"/>
         <MarketingV2 />
-        {/* <Product /> */}
-        {/* <Testimonial />
+        {/* <Product />
+        <Testimonial />
         <Subscribe /> */}
         <FooterV2 />
     </div>

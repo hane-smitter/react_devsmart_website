@@ -1,4 +1,4 @@
-;(function($){
+(function($){
     "use strict";
 
     $(document).ready(function(){
@@ -103,6 +103,41 @@
                 dots: false,
                 smartSpeed: 1500,
                 navText:['<i class="ti-angle-left" aria-hidden="true"></i>','<i class="ti-angle-right" aria-hidden="true"></i>'],
+            });
+        }
+
+        /* -----------------------------------------------------
+           Team members slider
+        ----------------------------------------------------- */
+        if ($('.team-slider').length){
+            $('.team-slider').owlCarousel({
+                // items: 3,
+                smartSpeed:450,
+                loop: true,
+                autoplay: true,
+                autoplayTimeout: 5000,
+                autoplayHoverPause: true,
+                nav: true,
+                dots: true,
+                navText: false,
+                responsive: {
+                    0: {
+                        item: 1,
+                        dots: false
+                    },
+                    576: {
+                        items: 2,
+                        dots: false
+                    },
+                    768: {
+                        items: 3,
+                        dots: false
+                    }, 
+                    992: {
+                        items: 4,
+                        dots: true
+                    }
+                }
             });
         }
 

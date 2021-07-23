@@ -19,7 +19,7 @@
 				font-size: 20px;
 				font-weight: 500;
 				letter-spacing: 0;
-				color: $dark-blue;
+				color: $dark-purple;
 				line-height: 1.2;
 			}
 		}
@@ -104,7 +104,7 @@
 			font-size: 24px;
 			font-weight: 500;
 			line-height: 44px;
-			color: $dark-blue;
+			color: $dark-purple;
 		}
 	}
 	p {
@@ -124,10 +124,10 @@
 			@include transition($transition);
 		}
 		&:hover {
-			color: $dark-blue;
+			color: $dark-purple;
 			span {
 				padding-left: 3px;
-				color: $dark-blue;
+				color: $dark-purple;
 			}
 		}
 	}

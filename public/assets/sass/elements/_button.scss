@@ -130,7 +130,7 @@
     }
 }
 .btn-blue {
-    background: $dark-blue;
+    background: $dark-purple;
     color: $white;
     &:hover {
         opacity: 0.7;
@@ -138,8 +138,8 @@
     }
 }
 .btn-red {
-    background: var(--main-color-one);
-    box-shadow: 0px 10px 14px #8E710A;//#8E710A
+    background: var(--main-color-two-dark);
+    box-shadow: 0px 10px 14px #8E710A;
     color: $white;
     &:hover {
         opacity: 0.8;

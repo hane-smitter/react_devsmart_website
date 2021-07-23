@@ -143,14 +143,14 @@
 				}
 				&:hover,
 				&.current {
-					background: $dark-blue;
+					background: $dark-purple;
 					color: $white;
-					border: 1px solid $dark-blue;
+					border: 1px solid $dark-purple;
 				}
 				&.prev:hover,
 				&.next:hover {
 					background: none;
-					color: $dark-blue;
+					color: $dark-purple;
 					border: none;
 				}
 			}
@@ -195,7 +195,7 @@
 			&:hover,
 			&:focus,
 			&.selected {
-				color: $dark-blue !important;
+				color: $dark-purple !important;
 			}
 		}
 	}
@@ -308,7 +308,7 @@
 			font-size: 18px;
 			margin-bottom: 14px;
 			letter-spacing: 0.54px;
-			color: $dark-blue;
+			color: $dark-purple;
 			font-weight: 600;
 			display: block;
 			transition: 0.4s;
@@ -383,7 +383,7 @@
 		line-height: 1.2;
 		letter-spacing: 0.6px;
 		font-weight: 500;
-		color: $dark-blue;
+		color: $dark-purple;
 		margin-bottom: 20px;
 	}
 	.price {
@@ -421,7 +421,7 @@
 		margin-bottom: 20px;
 		span {
 			font-size: var(--body-font-size);
-			color: $dark-blue;
+			color: $dark-purple;
 			font-weight: 500;
 			margin-right: 4px;
 			letter-spacing: 0.3px;
@@ -435,7 +435,7 @@
 	.tags {
 		span {
 			font-size: var(--body-font-size);
-			color: $dark-blue;
+			color: $dark-purple;
 			font-weight: 500;
 			margin-right: 4px;
 			letter-spacing: 0.3px;
@@ -612,7 +612,7 @@
 		font-size: var(--body-font-size);
 		line-height: 18px;
 		letter-spacing: 0.6px;
-		color: $dark-blue;
+		color: $dark-purple;
 		font-weight: 500;
 	}
 }

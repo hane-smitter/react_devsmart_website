@@ -21,10 +21,9 @@ class Team extends Component {
                 </div>
                 <div className="team-area text-center">
                     <div className="container">
-                        <div className="row custom-gutters-20">
+                        <div className="team-slider">
                         {sectiondata.team.items.map( ( item, i ) => 
-                            <div key={i} className="col-lg-3 col-sm-6">
-                                <div className="single-team">
+                                <div key={i} className="single-team">
                                     <div className="thumb">
                                         <img src={publicUrl+item.image_url} alt={imgattr} />
                                     </div>
@@ -32,7 +31,6 @@ class Team extends Component {
                                     <span>{item.designation}</span>
                                     <p>{item.content}</p>
                                 </div>
-                            </div>
                         )}
                         </div>
                     </div>

@@ -31,7 +31,7 @@
     .title {
         font-size: 65px;
         line-height: 74px;
-        color: $dark-blue;
+        color: $dark-purple;
         font-weight: 700;
         margin-bottom: 30px;
         font-family: var(--poppins-font) !important;
@@ -71,7 +71,7 @@
         opacity: 0.3;
         @include transition($transition);
         font-size: 35px;
-        color: $dark-blue;
+        color: $dark-purple;
         &:hover,
         &:active,
         &:focus {
@@ -85,7 +85,7 @@
         opacity: 0.3;
         @include transition($transition);
         font-size: 35px;
-        color: $dark-blue;
+        color: $dark-purple;
         &:hover,
         &:active,
         &:focus {
@@ -235,7 +235,7 @@
         span {
             font-size: 16px;
             letter-spacing: 0.32px;
-            color: $dark-blue;
+            color: $dark-purple;
             font-weight: 500;
         }
     }
