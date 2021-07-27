@@ -25,9 +25,9 @@ class Video_V2 extends Component {
                             <div className="img-with-video">
                                 <div className="img-wrap">
                                     <img src={publicUrl+data.image_url} alt={imgattr} />
-                                    <div className="hover">
-                                        <a href={data.video_url} className="video-play-btn mfp-iframe"><img src={publicUrl+'/assets/img/we-provide/3.png'} alt={imgattr}/></a>
-                                    </div>
+                                    {/* <div className="hover">
+                                        <a href={data.video_url} className="video-play-btn mfp-iframe"><img src={publicUrl+'assets/img/we-provide/3.png'} alt={imgattr}/></a>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>

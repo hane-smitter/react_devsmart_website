@@ -5,23 +5,23 @@
   "socialicon": [
       {
         "icon": "fa fa-dribbble",
-        "url": "https://www.facebook.com/codingeek.net/"
+        "url": "https://www.facebook.com/"
       },
       {
         "icon": "fa fa-facebook",
-        "url": "https://www.facebook.com/codingeek.net/"
+        "url": "https://www.facebook.com/"
       },
       {
         "icon": "fa fa-twitter",
-        "url": "https://twitter.com/codingeeknet"
+        "url": "https://twitter.com/"
       },
       {
         "icon": "fa fa-linkedin",
-        "url": "https://www.linkedin.com/company/codingeek/about/"
+        "url": "https://www.linkedin.com/"
       },
       {
         "icon": "fa fa-instagram",
-        "url": "https://www.instagram.com/codingeeknet/"
+        "url": "https://www.instagram.com/"
       }
     ],
   "copyrighttext": " © Devsmart Investment Group Limited 2021 All rights reserved",
