@@ -823,22 +823,22 @@
         {
           "icon": "assets/img/icons/s01.png",
           "title":"Easy to use",
-          "content": "Riyaqas One of the best Softwire Development company."
+          "content": "Devpesa is an easy to use application."
         }, 
         {
           "icon": "assets/img/icons/s02.png",
-          "title":"Automatic",
-          "content": "Riyaqas One of the best Softwire Development company."
+          "title":"Lite",
+          "content": "A light application that does not consume a lot of resources."
         },          
         {
           "icon": "assets/img/icons/s03.png",
-          "title":"Take a Command",
-          "content": "Riyaqas One of the best Softwire Development company."
+          "title":"Convenient",
+          "content": "Suited to serve your investment needs."
         },  
         {
           "icon": "assets/img/icons/s04.png",
-          "title":"Artificial Intelligence",
-          "content": "Riyaqas One of the best Softwire Development company."
+          "title":"Reliable",
+          "content": "Don't have to be worried of botched transactions interlude."
         }       
 
 
@@ -1029,10 +1029,10 @@
  
   },
    "about":{
-    "sectiontitle": "About the",
-    "color": "Artificial Intelligence",
+    "sectiontitle": "A copy of",
+    "color": "Devsmart Group",
     "image":"assets/img/others/10.png",
-    "short_description": "Riyaqas One of the best Softwire Development company. Riyaqas is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore",
+    "short_description": "Devsmart Group is made up of youth who have come together to accumulate resources in order to take advantage of investment opportunities to be able to empower membersas individuals, as a group and a community around through undertaking creative, innovative and socially viable investments.",
      "items":[
         {
           "icon": "assets/img/icons/t4.png"
@@ -1060,22 +1060,23 @@
     "image":"assets/img/others/9.png",
      "items":[
         {
-          "content": "Riyaqas One of the best Softwire Development company"
+          "content": "Join a chama."
         },
         {
-          "content": "From concept design to development, testing & implementation"
+          "content": "Get the code for your chama."
         },
         {
-          "content": "our team is here to support and guide you every step of the way."
+          "content": "Register on the chama mobile app"
+        },
+        
+        {
+          "content": "You can borrow loans from your chama via the app"
         },
         {
-          "content": "Our cost efficient and structured teamwork"
-        },
-        {
-          "content": "Riyaqas One of the best Softwire Development company"
+          "content": "You can deposit funds to your chama"
         },        
         {
-          "content": "our team is here to support and guide you every step of the way."
+          "content": "Repay loans in time to increase your loan amount limit."
         }
 
       ]
