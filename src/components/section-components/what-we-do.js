@@ -24,7 +24,7 @@ class What_We_Do extends Component {
                     <div className="row custom-gutters-20 justify-content-center">
 
                     {data.items.map( ( item, i ) => 
-                        <div key={i} className="col-lg-3 col-sm-6">
+                        <div key={i} className="col-6">
                             <div className="single-service-2 text-center">
                                 <div className="thumb">
                                     <img src={publicUrl+item.icon} alt={imgattr}/>
