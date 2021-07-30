@@ -110,8 +110,17 @@
                 color: var(--heading-color);
             }
         }
+        .logo-wrapper {
+            padding: 8px;
+
+            .logo {
+                display: inline-block;
+                width: 90px;
+            }
+        }
         .desktop-logo {
             margin-right: 100px;
+            max-height: 100px;
         }
         .navbar-collapse{
             .navbar-nav{
@@ -268,6 +277,13 @@
 .navbar-area-2 {
     .nav-container {
         .logo-wrapper {
+            padding: 8px;
+
+            .logo {
+                display: inline-block;
+                width: 90px;
+            }
+
             .sticky-logo {
                 display: none;
             }

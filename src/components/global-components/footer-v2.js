@@ -29,8 +29,7 @@ class Footer_V2 extends Component {
                                     <div className="footer-widget widget">
                                         <div className="about_us_widget">
                                             <a href="/" className="footer-logo"> 
-                                                {/* <img src={publicUrl+footerdata.footerlogo} alt={imgAlt} /> */}
-                                                <p className="h5 text-warning">Devsmart</p>
+                                                <img src={publicUrl+footerdata.footerlogo} alt={imgAlt} />
                                             </a>
                                             <p>{footerdata.footertext}</p>
                                             <ul className="social-icon">

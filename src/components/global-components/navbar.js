@@ -13,7 +13,7 @@ class Navbar extends Component {
             <div className="responsive-mobile-menu">
               <div className="logo-wrapper mobile-logo">
                 <a href={anchor} className="logo">
-                  <img src={publicUrl + "assets/img/logo.png"} alt={imgattr} />
+                  <img src={publicUrl + "assets/img/devsmart_logo.png"} alt={imgattr} />
                 </a>
               </div>
               
@@ -35,7 +35,7 @@ class Navbar extends Component {
             <div className="collapse navbar-collapse" id="Riyaqas_main_menu">
               <div className="logo-wrapper desktop-logo">
                 <a href="#" className="logo">
-                  <img src={publicUrl + "assets/img/logo.png"} alt={imgattr} />
+                  <img src={publicUrl + "assets/img/devsmart_logo.png"} alt={imgattr} />
                 </a>
               </div>
               <div className="navbar-nav">
