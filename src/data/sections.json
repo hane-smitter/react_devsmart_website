@@ -85,8 +85,8 @@
         "title1": "Smart Investment",
         "title2": "All you need ",
         "title_color": "Is our support",
-        "description": "There are many variations of passages of Lorem Ipsum available, but the ",
-        "description2": "majority have suffered alteration.",
+        "description": "To impact the surrounding community through social enterpreneurship.",
+        "description2": "Devsmart Group is for you",
         "image_url": "assets/img/banner/img_slide2.png",
         "btntxt": "Read More"
       },
@@ -94,8 +94,8 @@
         "title1": "Smart Investment",
         "title2": "Your partner in ",
         "title_color": "programme excellence",
-        "description": "There are many variations of passages of Lorem Ipsum available, but the ",
-        "description2": "majority have suffered alteration.",
+        "description": "To impact the surrounding community through social enterpreneurship.",
+        "description2": "Devsmart Group is for you",
         "image_url": "assets/img/banner/img_slide1.png",
         "btntxt": "Read More"
       },
@@ -103,8 +103,8 @@
         "title1": "Smart Investment",
         "title2": "Invest Today, ",
         "title_color": "Tomorrow’s revenue",
-        "description": "There are many variations of passages of Lorem Ipsum available, but the ",
-        "description2": "majority have suffered alteration.",
+        "description": "To impact the surrounding community through social enterpreneurship.",
+        "description2": "Devsmart Group is for you",
         "image_url": "assets/img/banner/7.png",
         "btntxt": "Read More"
       }
@@ -116,26 +116,26 @@
       {
         "title1": "We Can Solve Your",
         "title_color": "Business Needs",
-        "description": "There are many variations of passages of Lorem Ipsum available,  ",
-        "description2": "but the majority have suffered alteration.",
+        "description": "To impact the surrounding community through social enterpreneurship.",
+        "description2": "Devsmart Group is for you",
         "image_url": "assets/img/banner/9.png",
         "url":"#",
         "btntxt": "Read More"
       }, 
       {
-        "title1": "Turning  all Ideas Into Real",
+        "title1": "Turning  all Ideas Into Reality",
         "title_color": "Success",
-        "description": "There are many variations of passages of Lorem Ipsum available,  ",
-        "description2": "but the majority have suffered alteration.",
+        "description": "To impact the surrounding community through social enterpreneurship.",
+        "description2": "Devsmart Group is for you",
         "image_url": "assets/img/banner/10.png",
         "url":"#",
         "btntxt": "Read More"
       },
       {
         "title1": "Better App for your",
-        "title_color": "promotes sales",
-        "description": "There are many variations of passages of Lorem Ipsum available,  ",
-        "description2": "but the majority have suffered alteration.",
+        "title_color": "finacial managemtn",
+        "description": "To impact the surrounding community through social enterpreneurship.",
+        "description2": "Devsmart Group is for you",
         "image_url": "assets/img/banner/10.png",
         "url":"#",
         "btntxt": "Read More"
@@ -275,56 +275,56 @@
         "name": "Isaac Munene",
         "url":"#",
         "designation": "Chairman",
-        "content": "Riyaqas One of the best Software Development company.",
+        "content": "Devpesa is an easy to use application.",
         "image_url": "assets/img/startup/team/1.jpg"
       },
       {
         "name": "Ernest Chege",
         "url":"#",
         "designation": "Secretary",
-        "content": "Riyaqas One of the best Software Development company.",
+        "content": "A light application that does not consume a lot of resources.",
         "image_url": "assets/img/startup/team/2.jpg"
       },
       {
         "name": "Jefferson Maingi",
         "url":"#",
         "designation": "Team",
-        "content": "Riyaqas One of the best Software Development company.",
+        "content": "Suited to serve your investment needs.",
         "image_url": "assets/img/startup/team/3.jpg"
       },
       {
         "name": "Japheth Korir",
         "url":"#",
         "designation": "Treasurer",
-        "content": "Riyaqas One of the best Software Development company.",
+        "content": "Don't have to be worried of botched transactions interlude.",
         "image_url": "assets/img/startup/team/5.png"
       },
       {
         "name": "Nick Karubi",
         "url":"#",
         "designation": "Team",
-        "content": "Riyaqas One of the best Software Development company.",
+        "content": "Devpesa is an easy to use application.",
         "image_url": "assets/img/startup/team/5.png"
       },
       {
         "name": "William Muriithi",
         "url":"#",
         "designation": "Team",
-        "content": "Riyaqas One of the best Software Development company.",
+        "content": "A light application that does not consume a lot of resources.",
         "image_url": "assets/img/startup/team/5.png"
       },
       {
         "name": "Evanson Kariuki",
         "url":"#",
         "designation": "Team",
-        "content": "Riyaqas One of the best Software Development company.",
+        "content": "Suited to serve your investment needs.",
         "image_url": "assets/img/startup/team/5.png"
       },
       {
         "name": "Raphael Wanjiku",
         "url":"#",
         "designation": "Team",
-        "content": "Riyaqas One of the best Software Development company.",
+        "content": "Don't have to be worried of botched transactions interlude.",
         "image_url": "assets/img/startup/team/5.png"
       },
       {
@@ -710,7 +710,7 @@
     "videov2": {
     "title": "We are <span>",
     "title_color": "Devsmart Group",
-    "description": "<p>Devsmart Group is made up of youth who have come together to accumulate resources in order to take advantage of investment opportunities to be able to empower membersas individuals, as a group and a community around through undertaking creative, innovative and socially viable investments.</p>",
+    "description": "<p>Devsmart Group is made up of youth who have come together to accumulate resources in order to take advantage of investment opportunities, to be able to empower members as individuals, or as a group and a community around, through undertaking creative, innovative and socially viable investments.</p>",
     "image_url": "assets/img/we-provide/01.png",
     "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
     "list": [
@@ -739,34 +739,34 @@
     "short_description": "Offer your business with the best assistance for growth.",
     "items":[
         {
-          "title": "Branding Idendity",
+          "title": "Chama Software",
           "icon": "assets/img/service/project.png",
           "url": "#",
-          "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+          "content": "Chamas will operate independently, using Devsmart's Software as a Service. Devsmart will just offer support. Chamas will link their own paybills for seamless flow."
         },
         {
-          "title": "Business Consultancy",
+          "title": "Loan App",
           "icon": "assets/img/service/hiring.png",
           "url": "#",
-          "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+          "content": "The Mobile app also enables the Kenyan Citizen to borrow loan from Devsmart. In it is Devsmart loaning, for the general public, and Chamas for the groups and its members."
         },
         {
-          "title": "UI/UX - Design",
+          "title": "Financial Support",
           "icon": "assets/img/service/checklist.png",
           "url": "#",
-          "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+          "content": "Devsmart Investment accumulate resources to enable increased investment in income generating activities resulting in an improvement of the livelihood of the society."
         },
         {
-          "title": "Market Analysis",
+          "title": "Consultancy",
           "icon": "assets/img/service/analytics.png",
           "url": "#",
-          "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+          "content": "Our professional team will get assistance from AI-powered software to make informed analysis, making it quicker than ever to handle support requests."
         }
       ]
  
   },
     "servicesv2":{
-    "sectiontitle": "Riyaqas",
+    "sectiontitle": "Devsmart ",
     "sectiontitle_color": "was Built Specifically for",
     "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions.",
     "items":[
@@ -1297,7 +1297,7 @@
     "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
     "tables": [
       {
-        "title": "INDIVIDUAL",
+        "title": "SMALL",
         "currency": "$",
         "price": "Free",
         "duration": "/anully",
@@ -1306,12 +1306,11 @@
         "features": [
           "1000 Messages per month",
           "2 GB file storage",
-          "20 Projects per month",
           "Premium support"
         ]
       },
       {
-      "title": "SMALL BUSINESS",
+      "title": "MICRO",
         "currency": "$",
         "price": "11",
         "duration": "/anully",
@@ -1320,12 +1319,11 @@
         "features": [
           "1000 Messages per month",
           "2 GB file storage",
-          "20 Projects per month",
           "Premium support"
         ]
       },
       {
-        "title": "MEDIUM COMPANY",
+        "title": "MEDIUM",
         "currency": "$",
         "price": "22",
         "duration": "/anully",
@@ -1334,12 +1332,11 @@
         "features": [
           "1000 Messages per month",
           "2 GB file storage",
-          "20 Projects per month",
           "Premium support"
         ]
       },
       {
-        "title": "ENTERPRISE",
+        "title": "LARGE",
         "currency": "$",
         "price": "33",
         "duration": "/anully",
@@ -1348,7 +1345,6 @@
         "features": [
           "1000 Messages per month",
           "2 GB file storage",
-          "20 Projects per month",
           "Premium support"
         ]
       }
@@ -1409,17 +1405,17 @@
     "sectiontitle_color": "Do?",
     "offertitel":"What we",
     "offer_color": "Offer?",
-    "short_description": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position.",
+    "short_description": "Devsmart Group helps accumulate resources in order to take advantage of investment opportunities to be able to empower the community around through undertaking creative, innovative and socially viable investments.",
     "items": [
       {
         "title": "Vision",
         "icon": "assets/img/startup/service/2.png",
-        "content": "To accumulate resources to accumulate in viable and sustainable investments for wealth creation."
+        "content": "To accumulate resources to invest in viable and sustainable investments for wealth creation "
       },
       {
         "title": "Mission",
         "icon": "assets/img/startup/service/3.png",
-        "content": "To undertake investment activities that add to growth of the involved groups in pursuant to the individual, group and community development."
+        "content": "To undertake investment activities that grows and builds the groups for a consistent and more secure income for the members to encourage self-reliance and enable individual, group and community development. "
       }
     ]
   },
