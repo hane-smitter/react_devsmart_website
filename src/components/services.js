@@ -14,7 +14,7 @@ const Service = () => {
         <Services customclass="pd-top-112" />
         <PricingTable />
         <TestimonialV2 />
-        <Subscribe />
+        {/* <Subscribe /> */}
         <FooterV2 />
     </div>
 }
