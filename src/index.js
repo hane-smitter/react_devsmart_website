@@ -40,7 +40,7 @@ class Root extends Component {
                             <Route path="/blog" render={ () => { return <Blog data={blogdata} /> }} />
                             <Route path="/blog-grid" render={ () => { return <BlogGrid data={blogdata} /> }} />
                             <Route path="/blog-details" render={ () => { return <BlogDetails data={Singleblogdata} /> } } />
-                            <Route path="/job-listing" component={JobListing} />
+                            <Route path="/jobs" component={JobListing} />
                             <Route path="/job-details" component={JobDetails} />
                             <Route path="/job-apply" component={JobApply} />
                             <Route path="/team" component={team} />

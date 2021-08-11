@@ -27,11 +27,12 @@ class Job_Listing extends Component {
                             <img src={ publicUrl+item.icon } alt={imgattr} />
                             <div className="media-body">
                               <h6>{ item.jobtitle }</h6>
+                              <p>Send a cover letter and CV to careers@devsmart.co.ke not later than 15th August,2021 by 5pm. Only shortlisted candidates will be contacted.</p>
                               <span>{ item.date }</span>
                             </div>
-                            <button className="job-apply-btn align-self-center float-right">
+                            <a href='/Marketing assistant JD.pdf' className="job-apply-btn align-self-center float-right">
                               { data.buttontext }
-                            </button>
+                            </a>
                           </div>
                         ) }
                       

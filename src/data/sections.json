@@ -1410,12 +1410,12 @@
       {
         "title": "Vision",
         "icon": "assets/img/startup/service/2.png",
-        "content": "To accumulate resources to invest in viable and sustainable investments for wealth creation "
+        "content": "To accumulate resources to invest in viable and sustainable investments for wealth creation."
       },
       {
         "title": "Mission",
         "icon": "assets/img/startup/service/3.png",
-        "content": "To undertake investment activities that grows and builds the groups for a consistent and more secure income for the members to encourage self-reliance and enable individual, group and community development. "
+        "content": "To undertake investment activities that grow and build groups for a consistent and more secure income for the group members to encourage self-reliance and enable individual, group, and community development."
       }
     ]
   },
@@ -1553,37 +1553,12 @@
 },
 "joblisting": {
   "sectiontitle": "Open <span>Job</span> Positions",
-  "buttontext":" Apply Now ",
+  "buttontext":" Details ",
   "job":[
      {
-      "jobtitle": "Property Agent For UK Office Required",
-      "date": "August 29, 2019",
+      "jobtitle": "Marketing Assistant(1 position)",
+      "date": "August 15, 2021",
       "icon": "assets/img/icons/j1.png"
-     },
-      {
-      "jobtitle": "Property Agent For UK Office Required",
-      "date": "August 29, 2019",
-      "icon": "assets/img/icons/j2.png"
-     },
-      {
-      "jobtitle": "Property Agent For UK Office Required",
-      "date": "August 29, 2019",
-      "icon": "assets/img/icons/j3.png"
-     },
-    {
-      "jobtitle": "Property Agent For UK Office Required",
-      "date": "August 29, 2019",
-      "icon": "assets/img/icons/j4.png"
-     },
-     {
-      "jobtitle": "Property Agent For UK Office Required",
-      "date": "August 29, 2019",
-      "icon": "assets/img/icons/j5.png"
-     },
-    {
-      "jobtitle": "Property Agent For UK Office Required",
-      "date": "August 29, 2019",
-      "icon": "assets/img/icons/j6.png"
      }
   ]
 },

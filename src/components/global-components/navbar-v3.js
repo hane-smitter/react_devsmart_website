@@ -63,6 +63,7 @@ class Navbar_v3 extends Component {
                   <Lnk to="/" activeOnlyWhenExact={true} label="Home" />
                   <Lnk to="/about" label="About" />
                   <Lnk to="/services" label="Services" />
+                  <Lnk to="/jobs" label="Jobs" />
                   <Lnk to="/contact" label="Contact" />
                 </ul>
               </div>
