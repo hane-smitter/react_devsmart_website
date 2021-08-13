@@ -85,7 +85,7 @@
         "title1": "Smart Investment",
         "title2": "All you need ",
         "title_color": "Is our support",
-        "description": "To impact the surrounding community through social enterpreneurship.",
+        "description": "Devsmart provides the best, 24/7/365 customer support.",
         "description2": "Devsmart Group is for you",
         "image_url": "assets/img/banner/img_slide2.png",
         "btntxt": "Read More"
@@ -733,9 +733,9 @@
     ]
   },
   "services":{
-    "sectiontitle": "What",
-    "sectiontitle_color": "Service",
-    "sectiontitle_2": "We are Providing?",
+    "sectiontitle": "",
+    "sectiontitle_color": "Services that we Provide",
+    "sectiontitle_2": "",
     "short_description": "Offer your business with the best assistance for growth.",
     "items":[
         {
@@ -748,19 +748,19 @@
           "title": "Loan App",
           "icon": "assets/img/service/hiring.png",
           "url": "#",
-          "content": "The Mobile app also enables the Kenyan Citizen to borrow loan from Devsmart. In it is Devsmart loaning, for the general public, and Chamas for the groups and its members."
+          "content": "The Mobile app also enables Kenyan Citizens to borrow loan from Devsmart. It is a two-in-one app, which can be used by Chamas to digitize their processes."
         },
         {
-          "title": "Financial Support",
+          "title": "Software Development",
           "icon": "assets/img/service/checklist.png",
           "url": "#",
-          "content": "Devsmart Investment accumulate resources to enable increased investment in income generating activities resulting in an improvement of the livelihood of the society."
+          "content": "Devsmart Investment delves into the growing technology industry by helping develop custom solutions for their clients to cut down their expenditure, and increase productivity."
         },
         {
           "title": "Consultancy",
           "icon": "assets/img/service/analytics.png",
           "url": "#",
-          "content": "Our professional team will get assistance from AI-powered software to make informed analysis, making it quicker than ever to handle support requests."
+          "content": "Our professional team will listen to your problem/query attentive to every detail to make informed analysis, and give you the best solution that best suits your scenario."
         }
       ]
  
@@ -1472,28 +1472,28 @@
 "testimonial_v1":{
     "sectiontitle": "What Our",
     "sectiontitle_color": "Client Say?",
-    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
+    "short_description": "Here are some of the few testimonies from some valued clients.",
     "items":[
     {
       "client": "Ema Wilson",
       "designation": "CEO at craft",
       "star": 5,
       "imgurl": "assets/img/client/1.png",
-      "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      "content": "They have the best support all the time, no worries when you hit a bump"
     },
     {
       "client": "John Mojika",
       "designation": "CTO of Uxa",
       "star": 5,
       "imgurl": "assets/img/client/2.png",
-      "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      "content": "Their approach to building technological solutions is off the earth, I can say they are the best."
     },
     {
       "client": "Refule Mia",
-      "designation": "Branding Idendity",
+      "designation": "Branding Identity",
       "star": 5,
       "imgurl": "assets/img/client/3.png",
-      "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      "content": "Web design, development and management was our problem until we got to Devsmart."
     }
   ]
 },
