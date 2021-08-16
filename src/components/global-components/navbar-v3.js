@@ -14,17 +14,16 @@ class Navbar_v3 extends Component {
             <div className="responsive-mobile-menu">
               <div className="logo-wrapper mobile-logo">
                 <a href={anchor} className="logo">
-                  {/* <img
+                  <img
                     className="main-logo"
-                    src={publicUrl + "assets/img/sticky-logo.png"}
+                    src={publicUrl + "assets/img/devsmart_logo_light.png"}
                     alt={imgattr}
                   />
                   <img
                     className="sticky-logo"
-                    src={publicUrl + "assets/img/logo.png"}
+                    src={publicUrl + "assets/img/devsmart_logo.png"}
                     alt={imgattr}
-                  /> */}
-                  <p className="h5">Devsmart</p>
+                  />
                 </a>
               </div>
               <button
