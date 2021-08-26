@@ -25,13 +25,14 @@ import Shop from './components/shop';
 import ShopGrid from './components/shop-grid';
 import ShopDetails from './components/shop-details';
 import Checkout from './components/checkout';
+import ScrollToTop from './components/ScrollToTop';
 
 class Root extends Component {
     render() {
         return(
             <Router>
                 <HashRouter basename="/">
-                    <div>
+                    <ScrollToTop>
                         <Switch>
                             <Route exact path="/" component={HomePage} />
                             <Route path="/about" component={About} />
@@ -56,7 +57,7 @@ class Root extends Component {
                             <Route path="/checkout" component={Checkout} />
                             <Route path="*" component={Error} />
                         </Switch>
-                    </div>
+                    </ScrollToTop>
                 </HashRouter>
             </Router>
         )

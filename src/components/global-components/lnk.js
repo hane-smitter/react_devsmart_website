@@ -10,7 +10,7 @@ function Lnk({ label, to, activeOnlyWhenExact }) {
   
     return (
       <li className={match ? "current-menu-item" : ""}>
-        <Link to={to}>{label}</Link>
+        <Link to={to}>{label}</Link> 
       </li>
     );
 }
