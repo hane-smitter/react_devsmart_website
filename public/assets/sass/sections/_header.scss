@@ -71,7 +71,7 @@
         opacity: 0.3;
         @include transition($transition);
         font-size: 35px;
-        color: $dark-purple;
+        color: var(--main-color-two, #F5C61F);
         &:hover,
         &:active,
         &:focus {
@@ -85,7 +85,7 @@
         opacity: 0.3;
         @include transition($transition);
         font-size: 35px;
-        color: $dark-purple;
+        color: var(--main-color-two, #F5C61F);
         &:hover,
         &:active,
         &:focus {

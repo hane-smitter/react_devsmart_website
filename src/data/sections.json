@@ -267,9 +267,9 @@
     ]
   },
   "team": {
-    "sectiontitle": "Devsmart Investment Group",
+    "sectiontitle": "The",
     "sectiontitle_color": "Team",
-    "short_description":"Devsmart Investment Group brings together youth to accumulate resources to enable increased investment in income generating activities resulting in an improvement of the livelihood of the society.",
+    "short_description":"The able team at Devsmart Investment Group.",
     "items": [
       {
         "name": "Isaac Munene",
@@ -281,9 +281,9 @@
       {
         "name": "Ernest Chege",
         "url":"#",
-        "designation": "Secretary",
-        "content": "A light application that does not consume a lot of resources.",
-        "image_url": "assets/img/startup/team/2.jpg"
+        "designation": "Chair – Audit, Member-Finance",
+        "content": "An all-rounded Accounting and Tax Specialist with experience in tax consulting, credit control, and external auditing across a range of industries, including energy, Audit and utility sectors over the last 9 years.",
+        "image_url": "assets/img/startup/team/avatar2.jpg"
       },
       {
         "name": "Jefferson Maingi",
@@ -309,29 +309,29 @@
       {
         "name": "William Muriithi",
         "url":"#",
-        "designation": "Team",
-        "content": "A light application that does not consume a lot of resources.",
+        "designation": "Chair - Enterprise Development, Member-Audit, Technical Committees",
+        "content": "Comes with diverse global experience and expertise working in the higher ed, consulting, environmental sustainability and agricultural sectors.",
         "image_url": "assets/img/startup/team/5.png"
       },
       {
         "name": "Evanson Kariuki",
         "url":"#",
-        "designation": "Team",
-        "content": "Suited to serve your investment needs.",
-        "image_url": "assets/img/startup/team/5.png"
+        "designation": "Managing Director, Executive committee Secretary ",
+        "content": "A highly skilled information systems professional with over ten years of work experience in energy and education sectors.",
+        "image_url": "assets/img/startup/team/avatar1.jpg"
       },
       {
         "name": "Raphael Wanjiku",
         "url":"#",
-        "designation": "Team",
-        "content": "Don't have to be worried of botched transactions interlude.",
+        "designation": "Chair - Technical, Member-Admin",
+        "content": "Experienced software engineer with diverse experience in academia and the software industry over the last 10 years.",
         "image_url": "assets/img/startup/team/5.png"
       },
       {
         "name": "Kenneth Wachira",
         "url":"#",
-        "designation": "Team",
-        "content": "Riyaqas One of the best Software Development company.",
+        "designation": "Member - Technical, Member-Audit",
+        "content": "An accomplished and energetic lead Systems Developer with experience in Systems development and design across a range of industry sectors including Banking, Education, NGOs and IT over the last 10 years.",
         "image_url": "assets/img/startup/team/5.png"
       }
     ]
@@ -821,24 +821,24 @@
   "servicesv4":{
     "items":[
         {
-          "icon": "assets/img/icons/s01.png",
-          "title":"Easy to use",
-          "content": "Devpesa is an easy to use application."
+          "icon": "assets/img/icons/devpesa_logo.jpg",
+          "title":"Innovation",
+          "content": "We seek to add value to our customers through innovative technologies."
         }, 
         {
           "icon": "assets/img/icons/s02.png",
-          "title":"Lite",
-          "content": "A light application that does not consume a lot of resources."
+          "title":"Dilligence",
+          "content": "We are committed to executional excellence  in all our services."
         },          
         {
           "icon": "assets/img/icons/s03.png",
-          "title":"Convenient",
-          "content": "Suited to serve your investment needs."
+          "title":"Accountaility",
+          "content": "We keep our word."
         },  
         {
           "icon": "assets/img/icons/s04.png",
-          "title":"Reliable",
-          "content": "Don't have to be worried of botched transactions interlude."
+          "title":"Bold",
+          "content": "We are courageous to bridge inequality and promote inclusivity."
         }       
 
 
@@ -1032,19 +1032,19 @@
     "sectiontitle": "Regarding",
     "color": "Devsmart Limited",
     "image":"assets/img/others/10.png",
-    "short_description": "Devsmart Group is made up of youth who have come together to accumulate resources in order to take advantage of investment opportunities to be able to empower membersas individuals, as a group and a community around through undertaking creative, innovative and socially viable investments.",
-     "items":[
-        {
-          "icon": "assets/img/icons/t4.png"
-        },
-        {
-          "icon": "assets/img/icons/t5.png"
-        },
-        {
-          "icon": "assets/img/icons/t6.png"
-        }
+    "short_description": "Devsmart Group is a team of ambitious youth who have come together to accumulate resources in order to take advantage of investment opportunities to be able to empower members as individuals, as well as a group and the community through undertaking creative, innovative and socially viable investments.",
+    "items":[
+      {
+        "icon": "assets/img/icons/t4.png"
+      },
+      {
+        "icon": "assets/img/icons/t5.png"
+      },
+      {
+        "icon": "assets/img/icons/t6.png"
+      }
 
-      ]
+    ]
   },
   "help":{
     "sectiontitle": "Our Strong team help ",
@@ -1056,7 +1056,7 @@
   },
   "helpv2":{
     "sectiontitle": "What we ",
-    "color": "aim",
+    "color": "Aim",
     "image":"assets/img/others/9.png",
      "items":[
         {
@@ -1405,7 +1405,7 @@
     "sectiontitle_color": "Do?",
     "offertitel":"What we",
     "offer_color": "Offer?",
-    "short_description": "Devsmart Group helps accumulate resources in order to take advantage of investment opportunities to be able to empower the community around through undertaking creative, innovative and socially viable investments.",
+    "short_description": "We undertake investment activities that grow and build the organisation for a consistent and more secure income for the group members to encourage self-reliance and enable individual, group, and community development.",
     "items": [
       {
         "title": "Vision",
@@ -1415,7 +1415,7 @@
       {
         "title": "Mission",
         "icon": "assets/img/startup/service/3.png",
-        "content": "To undertake investment activities that grow and build groups for a consistent and more secure income for the group members to encourage self-reliance and enable individual, group, and community development."
+        "content": "To undertake investment activities that grow and build the organisation for a consistent and more secure income for the group members to encourage self-reliance and enable individual, group, and community development."
       }
     ]
   },
